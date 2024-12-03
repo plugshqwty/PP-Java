@@ -1,0 +1,7 @@
+John Doe,1234578,0987654,5555555,jP1ohn@example.com,www.johndoe.com,123 Main St
+Jane Smith,2345678,8765432,4444444,jaUy2ne@example.com,www.janesmith.com,456 Elm St
+Jim Brown,3456789,7654321,3333333,jioPB1m@example.com,www.jimbrown.com,789 Oak St
+Alice Johnson,4567890,6543210,2222222,apER4ice@example.com,www.alicejohnson.com,321 Pine St
+Bob Green,5678901,5432109,1111111,bOO7ob@example.com,www.bobgreen.com,654 Maple St
+Alex Baldin,7899095,6789655,8955567,bal13AdinAlex@example.com,www.baldinalex.com,176 Velik St
+Vladimir Razumovich,3523459,5567890,1233214,weWWW32ealka@example.com,www.wewealka.com,518 Rocos St 
